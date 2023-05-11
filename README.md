@@ -1,2 +1,3 @@
-# AirBnB_clone
-This project for AirBnB_clone with my partner 
+The Air bnb project
+
+its a partner project and a tasking one
